@@ -1,3 +1,5 @@
+[中文](./README_zh-CN.md)
+
 # selecting-lesson-fast
 
 A tool to automate course selection, refactored for maintainability and ease of use.
